@@ -73,9 +73,9 @@ Este projeto utiliza apenas as bibliotecas padrão do Java, além do driver JDBC
 
 ## Contribuições
 
-NAYARA ayara Renata Costa
-ERIC HUMBERTO DO NASCIMENTO BELISÁRIO
-YSADORA CHACON MILANI
+- NAYARA RENATA COSTA DE PAULA
+- ERIC HUMBERTO DO NASCIMENTO BELISÁRIO
+- YSADORA CHACON MILANI
 
 Este projeto está aberto para contribuições. Se você encontrar algum problema ou quiser adicionar novas funcionalidades, fique à vontade para abrir uma *issue* ou enviar um *pull request*.
 
